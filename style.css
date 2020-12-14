@@ -345,7 +345,7 @@ strong .footer__copy{
 .footer__link, .footer__social{
     color: var(--dark--color--light);
 }
-.fotter__link:hover{
+.footer__link:hover{
     text-decoration: underline;
 }
 .footer__social{
